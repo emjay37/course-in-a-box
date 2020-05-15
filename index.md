@@ -3,26 +3,12 @@ layout: index
 published: true
 ---
 
-## Create your own online course (and keep it)
+## Learn about the Universe and design a space-themed game
 
-Course in a Box is an open source, online course creation tool. It is designed to minimize the amount of time you need to spend fumbling around with technology, allowing you to focus on bringing together the resources, activities, and lessons that you want to share with the world.
+How does probability affect games of chance?  How do game creators combine skill and chance to make great games?  How do you make games fair?
 
-Course materials are written in [Markdown](https://www.markdownguide.org/) and hosted on [Github](https://www.github.com), a popular development platform that allows for collaborative drafting, version control, and easy dissemination of your course.
+Also, how do astronomers study our solar system?  What are asteroids, and how likely is it that one of them will hit us?  What is the likelihood that there is life on other worlds?  If so, will it ever attack us?  What would that be like?
 
-Using Course in a Box and hosting a course on Github are **completely free**, and we’ve outlined the process for putting together a course [on our blog](https://info.p2pu.org/2019/05/16/creating-an-open-course-with-p2pu/). If you’d like to hire us to help you set things up and/or co-design the course with you, [we can do that](https://www.p2pu.org/en/work-with-us/). 
+If you have ever wondered about any of these questions, this course is for you.  Through a series of experiments, we will investigate games of chance and skill and increase our understanding of probability and why it matters in gaming.  We will explore our Solar System and beyond and apply our knowledge of probability to tackle the questions of how at risk on planet Earth are from space invaders, both asteroid and alien.
 
-
-Here are some recent courses that have been built with Course in a Box:
-
-- [Learning to (re)use open educational resources](http://www.exploerercourse.org/) by Creative Commons & Open University
-- [Create and sustain effective makerspaces in your community](http://p2pu.github.io/makingandlearning/) by Pittsburgh Children’s Museum
-- [Learning about learning circles](https://p2pu.github.io/facilitate-course/) by P2PU
-
-
-## Reach new audiences
-
-Online courses take a big step forwards in the sharing of knowledge around the world. However, your course is only ever as good as the people it reaches. To help reach new audiences with online courses, P2PU developed learning circles: groups for people who take online courses together, in local libraries or community spaces.
-
-Once you create a course, you can add it to P2PU’s learning circle [course page](http://p2pu.org/en/courses/), a growing database of online courses that people are using to facilitate learning circles around the world. You can also check out our [facilitator page](https://www.p2pu.org/en/facilitate/) to learn how to run your own learning circle.
-
-
+This is a project-based, self-directed course, which means you can choose the projects which are meaningful to you and leave the rest.  As you choose a project, we will give you readings, videos, and experiments to explore the topic, provide you with some project ideas to get you started (while encouraging you to spin our projects to fit your own passions), and give you a community of peers with whom to discuss topics and share your work.
