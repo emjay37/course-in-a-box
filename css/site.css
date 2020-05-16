@@ -2,6 +2,14 @@
     max-width: 100%;
 }
 
-.container text-center h1 {
+h1 {
     color: #849974;
+}
+
+h2 {
+    color: #613a43;
+}
+
+p {
+    color: #613a43;
 }
