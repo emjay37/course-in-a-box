@@ -21,3 +21,10 @@ p {
 .navbar-header {
     color: #613a43;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
