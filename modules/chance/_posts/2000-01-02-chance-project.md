@@ -9,3 +9,7 @@
 <p>The activities in the next sections will explain the mathematics necessary to calculate which strategy will get you the best score in Pig in the long run.  Your goal is to use math to calculate the theoretical best strategy, then put it to the test by trying it out in the game, and finally, present an analysis of your results and recommendations for others.  You may present the information in any way you choose - blog, video, simulation, or anything else you can imagine.</p>
 
 <And remember, Pig is just the example we chose.  There are many games of chance that can be mathematically analyzed to determine a best strategy.  We encourage you to branch out to a game of your choice and share your analysis!</p>
+
+<img src="img/treeFortLogoLarge.png" class="center">
+
+<p>TreeFort Learning is a not-for-profit organization that provides project-based, self-directed learning that is free for all.  If you like our work, please consider making a donation on our <a href="http://www.treefortlearning.org">website</a>.</p>
