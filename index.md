@@ -13,6 +13,6 @@ If you have ever wondered about any of these questions, this course is for you. 
 
 This is a project-based, self-directed course, which means you can choose the projects that are meaningful to you and leave the rest.  For each project, we will give you readings, videos, and experiments to explore the topic, provide you with some project ideas to get you started (while encouraging you to spin our projects to fit your own passions), and give you a community of peers with whom to discuss topics and share your work.
 
-<img src="img/treeFortLogo.png" align="right">
+<img src="img/treeFortLogo.png" align="left">
 
 <p>TreeFort Learning is a not-for-profit organization that provides project-based, self-directed learning that is free for all.  If you like our work, please consider making a donation on our <a href="http://www.treefortlearning.org">website</a>.</p>
