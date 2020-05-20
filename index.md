@@ -15,4 +15,6 @@ This is a project-based, self-directed course, which means you can choose the pr
 
 <img src="img/treeFortLogo.png" align="left">
 
+<p></p>
+<p></p>
 <p>TreeFort Learning is a not-for-profit organization that provides project-based, self-directed learning that is free for all.  If you like our work, please consider making a donation on our <a href="http://www.treefortlearning.org">website</a>.</p>
