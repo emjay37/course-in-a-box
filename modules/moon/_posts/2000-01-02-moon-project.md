@@ -7,3 +7,7 @@
 <p>Once you have gathered your data, your final goal is to find a way to display it so that it is meaningful to you and communicates something to others.  If you took photographs or drew sketches, you could create a calendar, timeline, or circle to show the changes in the moon and/or tides.  You could make a short film or animation. You could make an interactive simulation or game. The only limit is your own imagination.  What will you create to honor the Moon?</p>
 
 <p>The next sections contain information about why the Moon looks different each night,the effect of the Moon on tides, and some tips to get you started in your observations.</p>
+
+<img src="img/treeFortLogoLarge.png" class="center">
+
+<p>TreeFort Learning is a not-for-profit organization that provides project-based, self-directed learning that is free for all.  If you like our work, please consider making a donation on our <a href="http://www.treefortlearning.org">website</a>.</p>
