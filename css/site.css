@@ -28,3 +28,7 @@ p {
     margin-right: auto;
     width: 50%;
 }
+
+img[src*='#left'] {
+    float: left;
+}
