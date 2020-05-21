@@ -4,6 +4,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bNqa3C5JbqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="/img/treeFortLogo.png" class="center">
+<img src="../../../img/treeFortLogo.png" class="center">
 
 <p>TreeFort Learning is a not-for-profit organization that provides project-based, self-directed learning that is free for all.  If you like our work, please consider making a donation on our <a href="http://www.treefortlearning.org">website</a>.</p>
