@@ -12,6 +12,9 @@
   <li>Storybots: Where Do Planets Come From? (rated TV-Y)</li>
   <li>The Universe (rated TV-14 for fear and smoking)</li>
 </ul>
+
+<img src="{{site.baseurl}}/img/solarSystemCake.jpg">
+<figcaption>An abstract model of the Solar System in the form of a cake; constructed by Jane Jones, age 66, Lily Sanders, age 5, and Emily Samuel, age 37</figcaption>
  
-<p>Did you learn something new?  Head to the <a href="https://discourse.treefortlearning.org/c/space-invaders/5">discussion board</a> to share it with others!</p>
+<p><br>Did you learn something new?  Head to the <a href="https://discourse.treefortlearning.org/c/space-invaders/5">discussion board</a> to share it with others!</p>
   
