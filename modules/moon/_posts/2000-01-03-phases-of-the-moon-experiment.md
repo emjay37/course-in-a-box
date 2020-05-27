@@ -22,4 +22,6 @@
   <li>Rotate 45 degrees one final time.  You have now completed the circle and are back to a new Moon.  Each cycle of the Moon takes 28 days.</li>
   </ol>
   
+  <img src="{{site.baseurl}}/img/moonExperiment.jpg">
+  
   <p>In the next section, you will find resources to learn more about the Moon and its effects on tides.</p>
