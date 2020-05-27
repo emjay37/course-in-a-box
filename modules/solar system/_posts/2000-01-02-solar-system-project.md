@@ -7,7 +7,7 @@
 
 <p><br>Your second goal in this project is to think about how to portray the Solar System in a way that is meaningful to you personally and communicates something to others. For example, you could focus on creating a hanging model that portrays the planets' physical characteristics. Or you might be interested in building a model that shows the planets' rotation around the Sun. Perhaps you wish to incorporate aspects of the planets into abstract art or focus less on the planets themselves and more on giving people a sense of the relative distances between them. All of these approaches are wonderful, and there an infinite number of others, limited only by your imagination. What fascinates or inspires you about the Solar System, and how will you share that wonder with others?</p>
 
-<img src="{{site.baseurl}}/img/solarSystemCake.jpg">
+<img src="{{site.baseurl}}/img/solarSystemHall.jpg">
 <figcaption>A model of the Solar System in which distance is approximately to the scale of 1m=150,000,000km and the planets show relative sizes but are not to scale; made of inflatable planets, pipe cleaners, and tape; constructed by Lily Sanders, age 4, and Emily Samuel, age 37</figcaption>
 
 <p><br>In order to help you get started, in the next section we will investigate the relative sizes and distances between the planets.</p>
