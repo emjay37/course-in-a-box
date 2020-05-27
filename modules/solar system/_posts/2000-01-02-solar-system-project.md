@@ -6,7 +6,7 @@
 
 <p>In order to help you get started, in the next section we will investigate the relative sizes and distances between the planets.</p>
 
-<img src="{{site.baseurl}}/img/treeFortLogo.png">
+<img src="{{site.baseurl}}/img/treeFortLogo.png" align="left">
 
-<p>TreeFort Learning is a not-for-profit organization that provides project-based, self-directed learning that is free for all.  If you like our work, please consider making a donation on our <a href="http://www.treefortlearning.org">website</a>.</p>
+<p><br><br>TreeFort Learning is a not-for-profit organization that provides project-based, self-directed learning that is free for all.  If you like our work, please consider making a donation on our <a href="http://www.treefortlearning.org">website</a>.</p>
 
