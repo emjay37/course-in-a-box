@@ -11,17 +11,17 @@
    
 <p>Books:</p>
 <ul>
-  <li><i>The Book of the Moon</i> by Dr. Maggie Aderin-Pocock</li>
-  <li><i>Moonshot</i> by Brian Floca</li>
-  <li><i>Lost Moon</i> by James Lovell and Jeffrey Kluger</li>
-  <li><i>Apollo 8</i> by Jeffrey Kluger</li>
+  <li><em>The Book of the Moon</em> by Dr. Maggie Aderin-Pocock</li>
+  <li><em>Moonshot</em> by Brian Floca</li>
+  <li><em>Lost Moon</em> by James Lovell and Jeffrey Kluger</li>
+  <li><em>Apollo 8</em> by Jeffrey Kluger</li>
   </ul>
   
 <p>Books for young readers:</p>
 <ul>
-  <li><i>So That's How the Moon Changes Shape!</i> by Allan Fowler</li>
-  <li><i>The Moon Book</i> by Gail Gibbons</li>
-  <li><i>The Moon</i> by Elaine Landau</li>
+  <li><em>So That's How the Moon Changes Shape!</em> by Allan Fowler</li>
+  <li><em>The Moon Book</em> by Gail Gibbons</li>
+  <li><em>The Moon</em> by Elaine Landau</li>
   </ul>
   
 <p>Documentaries:</p>
