@@ -10,10 +10,10 @@
     </ul>
    
 <p>Books:</p>
-  -*The Book of the Moon* by Dr. Maggie Aderin-Pocock
-  -*Moonshot* by Brian Floca
-  -*Lost Moon* by James Lovell and Jeffrey Kluger
-  -*Apollo 8* by Jeffrey Kluger
+  - *The Book of the Moon* by Dr. Maggie Aderin-Pocock
+  - *Moonshot* by Brian Floca
+  - *Lost Moon* by James Lovell and Jeffrey Kluger
+  - *Apollo 8* by Jeffrey Kluger
   
 <p>Books for young readers:</p>
 <ul>
