@@ -19,9 +19,9 @@
   
 <p>Books for young readers:</p>
 <ul>
-  <li><em>So That's How the Moon Changes Shape!</em> by Allan Fowler</li>
-  <li><em>The Moon Book</em> by Gail Gibbons</li>
-  <li><em>The Moon</em> by Elaine Landau</li>
+  <li>*So That's How the Moon Changes Shape!* by Allan Fowler</li>
+  <li>*The Moon Book* by Gail Gibbons</li>
+  <li>*The Moon* by Elaine Landau</li>
   </ul>
   
 <p>Documentaries:</p>
