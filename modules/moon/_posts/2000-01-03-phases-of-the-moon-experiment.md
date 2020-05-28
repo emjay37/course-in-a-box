@@ -24,4 +24,4 @@
   
   <img src="{{site.baseurl}}/img/moonExperiment.jpg">
   
-  <p>In the next section, you will find resources to learn more about the Moon and its effects on tides.</p>
+  <p><br>In the next section, you will find resources to learn more about the Moon and its effects on tides.</p>
