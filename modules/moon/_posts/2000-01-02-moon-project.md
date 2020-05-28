@@ -7,7 +7,7 @@
 <img src="{{site.baseurl}}/img/ocean.jpg">
 <figcaption>A digital photo of the ocean at Acadia National Park, Maine; taken by Emily Samuel, age 36</figcaption>
 
-<p>Once you have gathered your data, your final goal is to find a way to display it so that it is meaningful to you and communicates something to others.  If you took photographs or drew sketches, you could create a calendar, timeline, or circle to show the changes in the moon and/or tides.  You could make a short film or animation. You could make an interactive simulation or game. The only limit is your own imagination.  What will you create to honor the Moon?</p>
+<p><br>Once you have gathered your data, your final goal is to find a way to display it so that it is meaningful to you and communicates something to others.  If you took photographs or drew sketches, you could create a calendar, timeline, or circle to show the changes in the moon and/or tides.  You could make a short film or animation. You could make an interactive simulation or game. The only limit is your own imagination.  What will you create to honor the Moon?</p>
 
 <p>The next sections contain information about why the Moon looks different each night,the effect of the Moon on tides, and some tips to get you started in your observations.</p>
 
