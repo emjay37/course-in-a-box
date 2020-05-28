@@ -2,7 +2,7 @@
 
 On July 20, 1969, Neil Armstrong became the first human to walk on the Moon.  This historic mission captured the world's imagination in a way that has seldom been seen.  There is so much good content on the Moon that you could spend the rest of your life studying it (and if you love the Moon, why not do just that?)  Here are some places to start.
   
-Websites
+Websites:
 - NASA's Moon to Mars [videos](https://www.nasa.gov/topics/moon-to-mars/videos)
 - NASA's Solar System Exploration [website](https://solarsystem.nasa.gov/moons/earths-moon/overview/)
 - Khan Academy's Phases of the Moon [videos](https://www.khanacademy.org/science/cosmology-and-astronomy/earth-history-topic#moon-phases-and-eclipses)
