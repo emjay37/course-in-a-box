@@ -13,8 +13,8 @@
 <ul>
   <li>*The Book of the Moon* by Dr. Maggie Aderin-Pocock</li>
   <li>*Moonshot* by Brian Floca</li>
-  <li><em>Lost Moon</em> by James Lovell and Jeffrey Kluger</li>
-  <li><em>Apollo 8</em> by Jeffrey Kluger</li>
+  <li>*Lost Moon* by James Lovell and Jeffrey Kluger</li>
+  <li>*Apollo 8* by Jeffrey Kluger</li>
   </ul>
   
 <p>Books for young readers:</p>
