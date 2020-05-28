@@ -11,8 +11,8 @@
    
 <p>Books:</p>
 <ul>
-  <li><em>The Book of the Moon</em> by Dr. Maggie Aderin-Pocock</li>
-  <li><em>Moonshot</em> by Brian Floca</li>
+  <li>*The Book of the Moon* by Dr. Maggie Aderin-Pocock</li>
+  <li>*Moonshot* by Brian Floca</li>
   <li><em>Lost Moon</em> by James Lovell and Jeffrey Kluger</li>
   <li><em>Apollo 8</em> by Jeffrey Kluger</li>
   </ul>
